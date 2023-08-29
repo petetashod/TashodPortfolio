@@ -1,0 +1,39 @@
+{
+  "interests": [
+    {
+      "label": "Playing video games",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Reading about new Tech",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Hanging out with family",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+   
+    {
+      "label": "Problem Solving",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    }
+   
+  ],
+  "button": {
+    "visible": false,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
