@@ -21,7 +21,7 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "", "url": "" }
       ],
       "ctaButton": {
         "openNewTab": false,
@@ -29,8 +29,7 @@
         "url": ""
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+       
       ]
     },
     "featureToggles": {
