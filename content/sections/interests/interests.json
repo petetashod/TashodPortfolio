@@ -3,21 +3,21 @@
     {
       "label": "Html",
       "image": {
-        "src": "/Users/tashodpeterson/Desktop/TashodPortfolio/content/images/html-5.png",
+        "src": "/Users/tashodpeterson/Desktop/TashodPortfolio/content/images/screenshots/html-5.png",
         "alt": ""
       }
     },
     {
       "label": "Css",
       "image": {
-        "src": "/Users/tashodpeterson/Desktop/TashodPortfolio/content/images/css3-logo-png-transparent.png",
+        "src": "/Users/tashodpeterson/Desktop/TashodPortfolio/content/images/screenshots/css3-logo-png-transparent.png",
         "alt": ""
       }
     },
     {
       "label": "Javascript",
       "image": {
-        "src": "/Users/tashodpeterson/Desktop/TashodPortfolio/content/images/javascript-39404.png",
+        "src": "/Users/tashodpeterson/Desktop/TashodPortfolio/content/images/screenshots/javascript-39404.png",
         "alt": ""
       }
     },
@@ -25,7 +25,7 @@
     {
       "label": "React",
       "image": {
-        "src": "/Users/tashodpeterson/Desktop/TashodPortfolio/content/images/1174949_js_react js_logo_react_react native_icon.png",
+        "src": "/Users/tashodpeterson/Desktop/TashodPortfolio/content/images/screenshots/1174949_js_react js_logo_react_react native_icon.png",
         "alt": ""
       }
     },
@@ -33,7 +33,7 @@
     {
       "label": "Bootstrap",
       "image": {
-        "src": "//Users/tashodpeterson/Desktop/TashodPortfolio/content/images/bootstrap-logo.png",
+        "src": "/Users/tashodpeterson/Desktop/TashodPortfolio/content/images/screenshots/bootstrap-logo.png",
         "alt": ""
       }
     }
