@@ -11,10 +11,10 @@
   "title": "I'm Tashod Peterson",
   "subtitle": {
     "prefix": "Full-Stack Developer",
-    "highlight": " CodeCrafted: Unleashing Digital Magic",
+    "highlight": "",
     "suffix": "."
   },
-  "description": "Html-Css-JavaScript-React",
+  "description": "",
   "socialProfiles": {
     "from": ["LinkedIn","Github"],
     "showIcons": false
