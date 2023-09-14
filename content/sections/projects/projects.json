@@ -4,7 +4,7 @@
       "visible": true,
       "category": "",
       "title": "Calculator App",
-      "description": " I really enjoyed creating this application. I ran into a few issues with math logic trying to make sure I when the correct button was pushed, the correct mathematical process was implemented. In all, I learned how to interact with DOM and Debug better.",
+      "description": " This is one of the most enjoyable applications I've built. I ran into a few issues with mathematical logic and spent quite a bit of time making sure that it works as expected even in the most complicated cases. In all I learned how to better interact with the DOM and utilize the debugging tools in Chrome.",
       "tags": [""],
       "image": {
         "src": "../../images/screenshots/Screenshot 2023-09-01 at 11.37.42 PM.png",
@@ -29,7 +29,7 @@
       "visible": true,
       "category": "",
       "title": "Star Wars App",
-      "description": "This was a tough App, a lot of banging my head on the wall. I had a few issues grabbing the information from the API and displaying it in the table. I learned how to comb through an API and grab the information I needed to display in the table. Furthermore, I really enjoyed the process of learning how API's work and how to use them.",
+      "description": "This was a tough application to complete. I spent quite a bit of time banging my head on the wall and ran into a few issues rendering the data from the API in a table. This project was vital in understanding how to interact with a RESTful API.",
       "tags": [""],
       "image": {
         "src": "../../images/screenshots/Screenshot 2023-08-15 at 9.11.25 PM.png",
